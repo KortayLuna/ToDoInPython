@@ -1,0 +1,32 @@
+[
+     {
+          "date": "2023-11-03",
+          "task": "Complete coding assignment",
+          "done": false
+     },
+     {
+          "date": "2023-11-04",
+          "task": "Read a programming book",
+          "done": true
+     },
+     {
+          "date": "2023-11-05",
+          "task": "Sketch a landscape",
+          "done": false
+     },
+     {
+          "date": "3.11.2023",
+          "task": "clean",
+          "done": false
+     },
+     {
+          "date": "3.11.2023",
+          "task": "clean",
+          "done": false
+     },
+     {
+          "date": "3.11.2023",
+          "task": "finish the code",
+          "done": false
+     }
+]
